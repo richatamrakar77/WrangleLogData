@@ -1,2 +1,1 @@
-# WrangleLogData
-Python and Pyspark
+wrangle log data with Python and Apache Spark
